@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+  .header__img_right {
+    display: none;
+  }
+  .description__img {
+    display: none;
+  }
+  .registration__box_right {
+    display: none;
+  }
+  .registration__box_left {
+    padding-bottom: 10px;
+    padding-left: 45px;
+  }
+}/*# sourceMappingURL=styleTablet.css.map */

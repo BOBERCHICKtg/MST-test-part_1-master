@@ -1,0 +1,74 @@
+@media (max-width: 762px) {
+  .center {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .slightly {
+    margin-left: 0;
+  }
+  .moderately {
+    margin-left: 0;
+  }
+  .strongly {
+    margin-left: 0;
+  }
+  .header__img_right {
+    display: none;
+  }
+  .header__info {
+    padding-top: 50px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .header__nav_text {
+    display: none;
+  }
+  .header__info_button {
+    margin-left: 0;
+    padding: 15px 25px 15px 25px;
+  }
+  .description {
+    padding-top: 0;
+  }
+  .description__img_box {
+    display: none;
+  }
+  .registration {
+    padding: 0;
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-bottom: 16px;
+  }
+  .registration__box {
+    padding-bottom: 16px;
+  }
+  .registration__box_left {
+    padding-left: 0;
+  }
+  .registration__box_title {
+    font-size: 39px;
+  }
+  .registration__box_right {
+    display: none;
+  }
+  .registration__box_input-field {
+    padding: 10px 0px 10px 10px;
+  }
+  .footer {
+    padding-top: 10px;
+    display: block;
+  }
+  .footer__logo {
+    align-items: center;
+    margin-top: 0;
+  }
+  .footer__logo_text {
+    display: none;
+  }
+  .footer__contact_text {
+    display: none;
+  }
+  .footer__button_text {
+    display: none;
+  }
+}/*# sourceMappingURL=styleMobile.css.map */

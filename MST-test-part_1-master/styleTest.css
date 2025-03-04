@@ -1,0 +1,14 @@
+main {
+    padding: 0;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    padding: 40px;
+    text-align: center;
+}
+
+content>div {
+    height: 50px;
+}
